@@ -1,27 +1,15 @@
-# GanttNew
+# DevExtreme Gantt for Angular - How to display task details in a separate area
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.15.
 
-## Development server
+## Main Files:
+- [app.component.html](/src/app/app.component.html)
+- [app.component.ts](/src/app/app.component.ts)
+- [app.service.ts](/src/app/app.service.ts)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## How to test
 
-## Code scaffolding
+Clone this repository or download it. Navigate to the project's folder and run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## How to install DevExtreme Gantt to your app
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Follow the [Gantt - Getting Started](https://js.devexpress.com/Documentation/Guide/Widgets/Gantt/Getting_Started_with_Gantt/) article. 
